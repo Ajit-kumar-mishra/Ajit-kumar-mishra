@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **Ajit-kumar-mishra/Ajit-kumar-mishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
